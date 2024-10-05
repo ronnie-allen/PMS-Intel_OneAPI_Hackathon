@@ -63,8 +63,8 @@ These recommendations are powered by AI-driven models that interpret the data fr
    ```bash
    go run main.go
    ```
-   ![Backend](./Adminer(MySQL).jpeg)
-   ![Backend ](./postman.jpeg)
+   ![Backend](./Images/Adminer(MySQL).jpeg)
+   ![Backend ](./Images/postman.jpeg)
 
 ### AI Model
 1. Set up a Python environment and install dependencies.
@@ -73,8 +73,8 @@ These recommendations are powered by AI-driven models that interpret the data fr
    ```bash
    python app.py
    ```
-   ![AI Model](./main-py.jpeg)
-   ![AI Model](./model-py.jpeg)
+   ![AI Model](./Images/main-py.jpeg)
+   ![AI Model](./Images/model-py.jpeg)
 
 ### Admin Frontend (React.js)
 1. Navigate to the `admin-frontend` directory.
@@ -86,7 +86,7 @@ These recommendations are powered by AI-driven models that interpret the data fr
    ```bash
    npm start
    ```
-   ![Admin Frontend](./admin-frontend.jpeg)
+   ![Admin Frontend](./Images/admin-frontend.jpeg)
 
 ### User Mobile App (Flutter)
 1. Navigate to the `mobile-app` directory.
@@ -98,7 +98,7 @@ These recommendations are powered by AI-driven models that interpret the data fr
    ```bash
    flutter run
    ```
-   ![Mobile App](./user-frontend-apk.png)
+   ![Mobile App](./Images/user-frontend-apk.png)
 ---
 
 ## Future Enhancements
