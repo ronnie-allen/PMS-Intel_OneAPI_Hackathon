@@ -32,6 +32,9 @@ These recommendations are powered by AI-driven models that interpret the data fr
 - **Languages & Tools:** Python, LangChain
 - **Model:** Ollama's GEMMA-2 for AI-based lab report analysis and recommendation generation
 
+### Deployment
+- **DevOps:** Docker
+
 ### Frontend (Admin Portal)
 - **Framework:** React.js
 - **Styling:** Bootstrap
@@ -60,7 +63,7 @@ These recommendations are powered by AI-driven models that interpret the data fr
    ```bash
    go run main.go
    ```
-   ![Backend](./admin-frontend.jpeg)
+   ![Backend](./Adminer(MySQL).jpeg)
    ![Backend ](./postman.jpeg)
 
 ### AI Model
